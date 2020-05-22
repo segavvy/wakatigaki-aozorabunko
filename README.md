@@ -4,6 +4,8 @@
 
 分かち書きはGoogle Colabで実行しました。実装の詳細はGoogleドライブで公開している[青空文庫の作品の分かち書き済みテキスト取得.ipynb](https://colab.research.google.com/drive/1nyPp_9PYkmrDOJoiJzxBvCQLzIUWDdeB?usp=sharing)をご参照ください。
 
+なお、分かち書きだけでなく形態素解析結果が必要な場合は、[青空文庫 形態素解析データ集](http://aozora-word.hahasoha.net/index.html)で公開されていますので、ごちらをご利用いただくのが良いかと思います。
+
 # 作品とファイル名
 
 以下、ここで公開している作品名と分かち書き済みのテキストファイル名です。
